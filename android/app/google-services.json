@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645973233893",
+    "project_id": "ovacare-9aa6d",
+    "storage_bucket": "ovacare-9aa6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645973233893:android:c0a7ba1ddf62eb5cd8440c",
+        "android_client_info": {
+          "package_name": "com.example.woman1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi0TGtNARroHx7X5TCMZ5ArD_Q1DVeoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
